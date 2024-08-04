@@ -1,0 +1,24 @@
+
+LIBRARY EEE
+EXPORTS
+
+NPipe_Create
+NPipe_Link
+NPipe_Write
+NPipe_Read
+NPipe_Close
+
+PrintScreenBuffer
+PrintBytes
+GetCursorPos
+
+Pipe_Create
+Proc_Create
+
+EnumFile_Start
+EnumFile_Valid
+EnumFile_Next
+EnumFile_End
+
+
+
